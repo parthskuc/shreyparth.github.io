@@ -106,12 +106,22 @@ personalized targeting, saving $100,000 in campaigns and marketing
 
 ## Technical Blogs
 
-[Twitter Sentiment Analysis](https://github.com/parthskuc/Twitter-Sentiment-Analysis)
+[How Confidence and Prediction Intervals Work](https://towardsdatascience.com/how-confidence-and-prediction-intervals-work-4592019576d8)
 
-<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMBpd4Ut37mnQ0E" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-3-the-simpsons-3x18-xT5LMBpd4Ut37mnQ0E">via GIPHY</a></p>
-<img src="images/twitter.jpg?raw=True"  width="250" height="100"/>
+<br>
+<img src="images/ci.jpg?raw=True"  width="250" height="100"/>
 
+---
+[Understanding Kmeans and Hierarchical Clustering in R](https://medium.com/@shreytparth/understanding-k-means-and-hierarchical-clustering-in-r-9899342cc4fb)
 
+<br>
+<img src="images/kmeans.jpg?raw=True"  width="250" height="100"/>
+
+---
+[The Basics of Statistics: Summarizing Quantitative Data](https://medium.com/@shreytparth/the-basics-of-statistics-summarizing-quantitative-data-92eb5880003f)
+
+<br>
+<img src="images/stats.jpeg?raw=True"  width="250" height="100"/>
 
 
 <!-- Remove above link if you don't want to attibute -->
