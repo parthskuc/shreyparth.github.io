@@ -64,12 +64,12 @@ personalized targeting, saving $100,000 in campaigns and marketing
 
 [Predicting COVID-19 in Patients](https://github.com/parthskuc/Predicitng-Covid-19-Coronavirus-in-patients/blob/master/Covid-19.pdf)
 <br>
-<img src="images/covid19.jpg?raw=True" width="400" height="250"/>
+<img src="images/covid19.jpg?raw=True" width="250" height="100"/>
 
 ---
 [Cincinnati House Price Prediction](https://rpubs.com/shreyjparth/562705)
 <br>
-<img src="images/house.jpg?raw=true" width="400" height="250"/>
+<img src="images/house.jpg?raw=true" width="250" height="100"/>
 
 ---
 [Project 3 Title](http://example.com/)
