@@ -63,11 +63,11 @@ personalized targeting, saving $100,000 in campaigns and marketing
 ### Machine Learning
 
 [Predicting COVID-19 in Patients](https://github.com/parthskuc/Predicitng-Covid-19-Coronavirus-in-patients/blob/master/Covid-19.pdf)
-<img src="images/covid19.jpg"/>
+<img src="images/covid19.jpeg"/>
 
 ---
-[Cincinnati House Price Prediction](/pdf/Covid-19)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cincinnati House Price Prediction](https://rpubs.com/shreyjparth/562705)
+<img src="images/house.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -89,5 +89,5 @@ personalized targeting, saving $100,000 in campaigns and marketing
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
