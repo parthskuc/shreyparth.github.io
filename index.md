@@ -60,10 +60,10 @@ personalized targeting, saving $100,000 in campaigns and marketing
 
 ---
 
-### Category Name 1 
+### Machine Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting COVID-19 in Patients](https://github.com/parthskuc/Predicitng-Covid-19-Coronavirus-in-patients/blob/master/Covid-19.pdf)
+<img src="images/covid19.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
