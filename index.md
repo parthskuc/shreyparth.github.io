@@ -128,32 +128,32 @@ personalized targeting, saving $100,000 in campaigns and marketing
 [How much Americans Sleep at an average?](https://public.tableau.com/profile/shrey.parth#!/vizhome/SleepyAmerica/Final)
 
 <br>
-<img src="images/sleepy.jpg?raw=True"  width="250" height="100"/>
+<img src="images/sleepy.JPG?raw=True"  width="250" height="100"/>
 
 ---
 [James Patterson Books Checkout Analysis - Seattle Library](https://public.tableau.com/profile/shrey.parth#!/vizhome/James_PattersonBookCheckouts/jamespattersonbookcheckouts)
 
 <br>
-<img src="images/jp.jpg?raw=True"  width="250" height="100"/>
+<img src="images/jp.JPG?raw=True"  width="250" height="100"/>
 
 ---
 
 [Gapminder Animation](https://public.tableau.com/profile/shrey.parth#!/vizhome/GapminderAnimation/GapminderAnimation)
 
 <br>
-<img src="images/gapminder.jpg?raw=True"  width="250" height="100"/>
+<img src="images/gapminder.JPG?raw=True"  width="250" height="100"/>
 
 ---
 [Game of Thrones Death Analysis](https://public.tableau.com/profile/shrey.parth#!/vizhome/Game_of_thrones_Death/GameofThronesDeath)
 
 <br>
-<img src="images/got.jpg?raw=True"  width="250" height="100"/>
+<img src="images/got.JPG?raw=True"  width="250" height="100"/>
 
 ---
 [Halloween Data Visualization](https://public.tableau.com/profile/shrey.parth#!/vizhome/HalloweenAnalysis_15678637872440/HalloweenatJefferys)
 
 <br>
-<img src="images/halloween.jpg"  width="250" height="100"/>
+<img src="images/halloween.JPG?raw=True"  width="250" height="100"/>
 
 
 <!-- Remove above link if you don't want to attibute -->
