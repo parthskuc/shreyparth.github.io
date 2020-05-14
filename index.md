@@ -29,7 +29,7 @@ issues, patterns and insights. Developed, maintained and automated reports to su
 visualizations used on a weekly basis by senior management.
 
 **SmartCoin Financials**, Bangalore , Karnataka, India 
-*Data Analyst*
+<br>*Data Analyst*</br>
 May 2018 - Feb 2019
 * Formed complex SQL queries on Google BigQuery to extract, clean and wrangle terabytes of structured and
 unstructured customer data and conducted quantitative analysis to capitalize business insights.
@@ -43,7 +43,7 @@ assist leaders and investors make informed business decisions.
 proper data integration for reliable and strategic decision making.
 
 **Publicis Sapient**, Bangalore, Karnataka, India 
-*Associate Technology (Data)*
+<br>*Associate Technology (Data)*</br>
 July 2015 - July 2017
 
 * Formulated data driven innovative strategies and identified business opportunities to improve online presence for
