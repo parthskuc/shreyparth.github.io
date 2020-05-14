@@ -63,7 +63,7 @@ personalized targeting, saving $100,000 in campaigns and marketing
 ### Machine Learning
 
 [Predicting COVID-19 in Patients](https://github.com/parthskuc/Predicitng-Covid-19-Coronavirus-in-patients/blob/master/Covid-19.pdf)
-<img src="images/covid19.jpeg"/>
+<img src="images/covid19.jpeg?raw=True"/>
 
 ---
 [Cincinnati House Price Prediction](https://rpubs.com/shreyjparth/562705)
