@@ -21,7 +21,7 @@ Warehousing for Business Intelligence, Data Visualization, Big Data Integration
 
 **LatentView Analytics**, Bangalore, Karnataka, India
 <br>*Data Analyst* </br>
-March 2019 - June 2019
+<br>March 2019 - June 2019
 
 * Structured SQL queries involving analytical functions to fetch data from multiple sources to identify underlying
 issues, patterns and insights. Developed, maintained and automated reports to summarize insights.
@@ -29,8 +29,8 @@ issues, patterns and insights. Developed, maintained and automated reports to su
 visualizations used on a weekly basis by senior management.
 
 **SmartCoin Financials**, Bangalore , Karnataka, India 
-<br>*Data Analyst*</br>
-May 2018 - Feb 2019
+<br>*Data Analyst*
+<br>May 2018 - Feb 2019
 * Formed complex SQL queries on Google BigQuery to extract, clean and wrangle terabytes of structured and
 unstructured customer data and conducted quantitative analysis to capitalize business insights.
 * Performed Diagnostic analytics using MySQL to identify fraudulent users and saved $70,000 in loan amount.
@@ -44,7 +44,7 @@ proper data integration for reliable and strategic decision making.
 
 **Publicis Sapient**, Bangalore, Karnataka, India 
 <br>*Associate Technology (Data)*</br>
-July 2015 - July 2017
+<br>July 2015 - July 2017
 
 * Formulated data driven innovative strategies and identified business opportunities to improve online presence for
 a US based fortune 500 departmental store venturing into e-commerce domain for first time.
@@ -64,44 +64,64 @@ personalized targeting, saving $100,000 in campaigns and marketing
 
 [Predicting COVID-19 in Patients](https://github.com/parthskuc/Predicitng-Covid-19-Coronavirus-in-patients/blob/master/Covid-19.pdf)
 
-<br></br>
+<br>
 <img src="images/covid19.jpg?raw=True" width="250" height="100"/>
 
 ---
 [Cincinnati House Price Prediction](https://rpubs.com/shreyjparth/562705)
-<br></br>
-<img src="images/house.jpg?raw=true" width="250" height="100"/>
+
+<br>
+<img src="images/house.jpg?raw=True" width="250" height="100"/>
 
 ---
 [Spotify Data Analysis and Genre Prediction](https://github.com/parthskuc/Spotify-data-analysis)
 
-<br></br>
-<img src="images/spotify.jpg?raw=true"  width="250" height="100"/>
+<br>
+<img src="images/spotify.jpg?raw=True"  width="250" height="100"/>
 
 ---
 [Short Term Rental Profitability Analysis](https://rpubs.com/shreyjparth/607800)
-<br></br>
-<img src="images/rental.jpg?raw=true"  width="250" height="100"/>
+
+<br>
+<img src="images/rental.jpg?raw=True"  width="250" height="100"/>
 
 ---
-[Movie Recommendor System](https://github.com/parthskuc/Movies-Recommender-System
-<br></br>
-<img src="images/movie.jpeg?raw=true"  width="250" height="100"/>
+[Movie Recommendor System](https://github.com/parthskuc/Movies-Recommender-System)
+
+<br>
+<img src="images/movie.jpeg?raw=True"  width="250" height="100"/>
 
 ---
 [Predicting Flight Landing Distance](https://github.com/parthskuc/Predicting-Landing-distance-of-Flights/blob/master/Predicting-Landing-distance-of-Flights.pdf)
-<br></br>
-<img src="images/flight.jpg?raw=true"  width="250" height="100"/>
+
+<br>
+<img src="images/flight.jpg?raw=True"  width="250" height="100"/>
 
 ---
 [Twitter Sentiment Analysis](https://github.com/parthskuc/Twitter-Sentiment-Analysis)
-<br></br>
-<img src="images/twitter.jpg?raw=true"  width="250" height="100"/>
+
+<br>
+<img src="images/twitter.jpg?raw=True"  width="250" height="100"/>
 
 
 ## Technical Blogs
 
+[How Confidence and Prediction Intervals Work](https://towardsdatascience.com/how-confidence-and-prediction-intervals-work-4592019576d8)
 
+<br>
+<img src="images/ci.jpg?raw=True"  width="250" height="100"/>
+
+---
+[Understanding Kmeans and Hierarchical Clustering in R](https://medium.com/@shreytparth/understanding-k-means-and-hierarchical-clustering-in-r-9899342cc4fb)
+
+<br>
+<img src="images/kmeans.jpg?raw=True"  width="250" height="100"/>
+
+---
+[The Basics of Statistics: Summarizing Quantitative Data](https://medium.com/@shreytparth/the-basics-of-statistics-summarizing-quantitative-data-92eb5880003f)
+
+<br>
+<img src="images/stats.jpeg?raw=True"  width="250" height="100"/>
 
 
 <!-- Remove above link if you don't want to attibute -->
