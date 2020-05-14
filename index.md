@@ -60,36 +60,48 @@ personalized targeting, saving $100,000 in campaigns and marketing
 
 ---
 
-### Machine Learning
+### Data Analysis and Machine Learning Projects
 
 [Predicting COVID-19 in Patients](https://github.com/parthskuc/Predicitng-Covid-19-Coronavirus-in-patients/blob/master/Covid-19.pdf)
-<br>
+
+<br></br>
 <img src="images/covid19.jpg?raw=True" width="250" height="100"/>
 
 ---
 [Cincinnati House Price Prediction](https://rpubs.com/shreyjparth/562705)
-<br>
+<br></br>
 <img src="images/house.jpg?raw=true" width="250" height="100"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Spotify Data Analysis and Genre Prediction](https://github.com/parthskuc/Spotify-data-analysis)
+
+<br></br>
+<img src="images/spotify.jpg?raw=true"  width="250" height="100"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Short Term Rental Profitability Analysis](https://rpubs.com/shreyjparth/607800)
+<br></br>
+<img src="images/rental.jpg?raw=true"  width="250" height="100"/>
 
 ---
-
-
-
+[Movie Recommendor System](https://github.com/parthskuc/Movies-Recommender-System
+<br></br>
+<img src="images/movie.jpeg?raw=true"  width="250" height="100"/>
 
 ---
+[Predicting Flight Landing Distance](https://github.com/parthskuc/Predicting-Landing-distance-of-Flights/blob/master/Predicting-Landing-distance-of-Flights.pdf)
+<br></br>
+<img src="images/flight.jpg?raw=true"  width="250" height="100"/>
+
+---
+[Twitter Sentiment Analysis](https://github.com/parthskuc/Twitter-Sentiment-Analysis)
+<br></br>
+<img src="images/twitter.jpg?raw=true"  width="250" height="100"/>
+
+
+## Technical Blogs
+
+
+
 
 <!-- Remove above link if you don't want to attibute -->
