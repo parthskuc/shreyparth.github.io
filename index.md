@@ -21,7 +21,7 @@ Warehousing for Business Intelligence, Data Visualization, Big Data Integration
 
 **LatentView Analytics**, Bangalore, Karnataka, India
 <br>*Data Analyst* </br>
-March 2019 - June 2019
+<br>March 2019 - June 2019
 
 * Structured SQL queries involving analytical functions to fetch data from multiple sources to identify underlying
 issues, patterns and insights. Developed, maintained and automated reports to summarize insights.
@@ -29,8 +29,8 @@ issues, patterns and insights. Developed, maintained and automated reports to su
 visualizations used on a weekly basis by senior management.
 
 **SmartCoin Financials**, Bangalore , Karnataka, India 
-<br>*Data Analyst*</br>
-May 2018 - Feb 2019
+<br>*Data Analyst*
+<br>May 2018 - Feb 2019
 * Formed complex SQL queries on Google BigQuery to extract, clean and wrangle terabytes of structured and
 unstructured customer data and conducted quantitative analysis to capitalize business insights.
 * Performed Diagnostic analytics using MySQL to identify fraudulent users and saved $70,000 in loan amount.
@@ -44,7 +44,7 @@ proper data integration for reliable and strategic decision making.
 
 **Publicis Sapient**, Bangalore, Karnataka, India 
 <br>*Associate Technology (Data)*</br>
-July 2015 - July 2017
+<br>July 2015 - July 2017
 
 * Formulated data driven innovative strategies and identified business opportunities to improve online presence for
 a US based fortune 500 departmental store venturing into e-commerce domain for first time.
@@ -105,6 +105,11 @@ personalized targeting, saving $100,000 in campaigns and marketing
 
 
 ## Technical Blogs
+
+[Twitter Sentiment Analysis](https://github.com/parthskuc/Twitter-Sentiment-Analysis)
+<iframe src="https://giphy.com/embed/xT5LMBpd4Ut37mnQ0E" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-3-the-simpsons-3x18-xT5LMBpd4Ut37mnQ0E">via GIPHY</a></p>
+<br>
+<img src="images/twitter.jpg?raw=True"  width="250" height="100"/>
 
 
 
