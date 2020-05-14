@@ -107,8 +107,8 @@ personalized targeting, saving $100,000 in campaigns and marketing
 ## Technical Blogs
 
 [Twitter Sentiment Analysis](https://github.com/parthskuc/Twitter-Sentiment-Analysis)
-<iframe src="https://giphy.com/embed/xT5LMBpd4Ut37mnQ0E" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-3-the-simpsons-3x18-xT5LMBpd4Ut37mnQ0E">via GIPHY</a></p>
-<br>
+
+<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/xT5LMBpd4Ut37mnQ0E" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-3-the-simpsons-3x18-xT5LMBpd4Ut37mnQ0E">via GIPHY</a></p>
 <img src="images/twitter.jpg?raw=True"  width="250" height="100"/>
 
 
