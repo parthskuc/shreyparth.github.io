@@ -20,7 +20,7 @@ Warehousing for Business Intelligence, Data Visualization, Big Data Integration
 ### EXPERIENCE
 
 **LatentView Analytics**, Bangalore, Karnataka, India
-*Data Analyst* 
+<br>*Data Analyst* </br>
 March 2019 - June 2019
 
 * Structured SQL queries involving analytical functions to fetch data from multiple sources to identify underlying
