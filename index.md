@@ -153,7 +153,7 @@ personalized targeting, saving $100,000 in campaigns and marketing
 [Halloween Data Visualization](https://public.tableau.com/profile/shrey.parth#!/vizhome/HalloweenAnalysis_15678637872440/HalloweenatJefferys)
 
 <br>
-<img src="images/halloween.jpg?raw=True"  width="250" height="100"/>
+<img src="images/halloween.jpg"  width="250" height="100"/>
 
 
 <!-- Remove above link if you don't want to attibute -->
