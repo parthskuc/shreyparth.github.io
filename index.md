@@ -69,31 +69,37 @@ personalized targeting, saving $100,000 in campaigns and marketing
 
 ---
 [Cincinnati House Price Prediction](https://rpubs.com/shreyjparth/562705)
+
 <br>
 <img src="images/house.jpg?raw=True" width="250" height="100"/>
 
 ---
 [Spotify Data Analysis and Genre Prediction](https://github.com/parthskuc/Spotify-data-analysis)
+
 <br>
 <img src="images/spotify.jpg?raw=True"  width="250" height="100"/>
 
 ---
 [Short Term Rental Profitability Analysis](https://rpubs.com/shreyjparth/607800)
+
 <br>
 <img src="images/rental.jpg?raw=True"  width="250" height="100"/>
 
 ---
-[Movie Recommendor System](https://github.com/parthskuc/Movies-Recommender-System
+[Movie Recommendor System](https://github.com/parthskuc/Movies-Recommender-System)
+
 <br>
 <img src="images/movie.jpeg?raw=True"  width="250" height="100"/>
 
 ---
 [Predicting Flight Landing Distance](https://github.com/parthskuc/Predicting-Landing-distance-of-Flights/blob/master/Predicting-Landing-distance-of-Flights.pdf)
+
 <br>
 <img src="images/flight.jpg?raw=True"  width="250" height="100"/>
 
 ---
 [Twitter Sentiment Analysis](https://github.com/parthskuc/Twitter-Sentiment-Analysis)
+
 <br>
 <img src="images/twitter.jpg?raw=True"  width="250" height="100"/>
 
