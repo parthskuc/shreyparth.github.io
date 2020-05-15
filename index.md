@@ -20,7 +20,7 @@ Warehousing for Business Intelligence, Data Visualization, Big Data Integration
 ### EXPERIENCE
 
 **LatentView Analytics**, Bangalore, Karnataka, India
-<br>*Data Analyst* </br>
+<br>*Data Analyst* 
 <br>March 2019 - June 2019
 
 * Structured SQL queries involving analytical functions to fetch data from multiple sources to identify underlying
@@ -43,7 +43,7 @@ assist leaders and investors make informed business decisions.
 proper data integration for reliable and strategic decision making.
 
 **Publicis Sapient**, Bangalore, Karnataka, India 
-<br>*Associate Technology (Data)*</br>
+<br>*Associate Technology (Data)*
 <br>July 2015 - July 2017
 
 * Formulated data driven innovative strategies and identified business opportunities to improve online presence for
